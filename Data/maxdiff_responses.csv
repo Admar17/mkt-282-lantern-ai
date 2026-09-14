@@ -1,0 +1,13 @@
+respondent_id,occupation,classmate,set_id,option_A,option_B,option_C,option_D,best,worst
+R01,professional,0,1,Autopilot / recurring tasks,No-training guarantee,Priority / advanced-model access,Subscription and bill tracking,,
+R01,professional,0,2,Vault / on-device sensitive mode,"Full suite (docs, storage, budgeting)",Referral or household gift seats,Usage allowance (Light / Standard / Max),,
+R01,professional,0,3,Household seats (up to 5),Life-admin agents with click-to-approve,"Form-filling agents (school, insurance)",Trip-planning agent,,
+R01,professional,0,4,"Full suite (docs, storage, budgeting)",Vault / on-device sensitive mode,Autopilot / recurring tasks,Email + calendar integrations,,
+R01,professional,0,5,Household seats (up to 5),Priority / advanced-model access,Trip-planning agent,Subscription and bill tracking,,
+R01,professional,0,6,Usage allowance (Light / Standard / Max),No-training guarantee,Referral or household gift seats,"Form-filling agents (school, insurance)",,
+R01,professional,0,7,"Form-filling agents (school, insurance)",Priority / advanced-model access,Life-admin agents with click-to-approve,Email + calendar integrations,,
+R01,professional,0,8,Household seats (up to 5),Life-admin agents with click-to-approve,Subscription and bill tracking,Autopilot / recurring tasks,,
+R01,professional,0,9,Usage allowance (Light / Standard / Max),"Full suite (docs, storage, budgeting)",Referral or household gift seats,Email + calendar integrations,,
+R01,professional,0,10,Vault / on-device sensitive mode,No-training guarantee,Trip-planning agent,"Full suite (docs, storage, budgeting)",,
+R01,professional,0,11,Vault / on-device sensitive mode,Household seats (up to 5),"Form-filling agents (school, insurance)",Email + calendar integrations,,
+R01,professional,0,12,Subscription and bill tracking,Usage allowance (Light / Standard / Max),Referral or household gift seats,No-training guarantee,,
